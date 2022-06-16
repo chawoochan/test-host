@@ -1,0 +1,17 @@
+.click-button {
+    font-family: 'Godum';
+    width: 250px;
+    position: absolute;
+    height: 100px;
+    font-size: 20px;
+    padding: 20px;
+    top:50%;
+    left:41%;
+    border: none;
+    border-radius: 5px;
+    margin:0 auto;
+    display: flex;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+  }

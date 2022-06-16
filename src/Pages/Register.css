@@ -1,0 +1,9 @@
+input[name=input_id]::placeholder {
+    text-align: center;
+    font-size: 13px;
+}
+
+input[name=input_pw]::placeholder {
+    text-align: center;
+    font-size: 13px;
+}
